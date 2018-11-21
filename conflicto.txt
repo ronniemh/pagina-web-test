@@ -1,1 +1,2 @@
 esto es para un conflicto
+//linea agregada desde branch 1
